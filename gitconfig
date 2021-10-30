@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = anouar.ohs@gmail.com
+	name = anouar ohsain
